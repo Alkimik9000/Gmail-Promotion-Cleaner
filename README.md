@@ -10,7 +10,7 @@ This project provides a script that automates deleting promotional email in Gmai
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/Alkimik9000/Gmail-Promotion-Cleaner)
    cd gmail-promotions-cleaner
    ```
 2. Create and activate a virtual environment:
